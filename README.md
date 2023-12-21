@@ -175,7 +175,6 @@ alongside their opening tag.
 Lastly, we'll add a table below the paragraph to recap some of the stuff in
 this lesson:
 
-```html
 <table>
   <thead>
     <tr>
@@ -202,7 +201,6 @@ this lesson:
     </tr>
   </tbody>
 </table>
-```
 
 Woah. That's a **lot** of markup! If you take a look at the result, though,
 you'll see that it's a fairly complex visual — it's a table! Our table
